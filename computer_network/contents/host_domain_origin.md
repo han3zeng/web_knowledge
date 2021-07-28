@@ -16,7 +16,7 @@
 * name of the network
 
 
-### Explanation
+### Explanationtt
 * `hostname.domain.com`
 * example `mymachine.theuniversity.org`
   * access from outside of the university network

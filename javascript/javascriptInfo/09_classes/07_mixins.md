@@ -2,7 +2,7 @@
 
 ## Problem
 * There can be only one [[Prototype]] for an object
-* Class can only extends on Class
+* Class can only extends one Class
 
 ### Goal
 * single class has two different behaviors from two different classes.

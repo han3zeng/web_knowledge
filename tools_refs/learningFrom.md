@@ -31,6 +31,7 @@
 * Ilya Kantor
 * Philip Robert
 * Dan Abramov
+* [Gosha Arinich(https://goshakkk.name/)
 
 
 

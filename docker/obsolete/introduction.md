@@ -59,17 +59,18 @@
 
 ### Compare to VM
 <img width="50%" src="./assets/container_diagram.png" />
+
 * Like VM
-  * private space for processing
-  * execute command as root.
-  * has private network interface and IP address
-  * custom routes and iptable rules
-  * can mount file system
+    * private space for processing
+    * execute command as root.
+    * has private network interface and IP address
+    * custom routes and iptable rules
+    * can mount file system
 * The difference from VM
- * share the host system's kernel with other containers
- * Just pack up the user space (bins, libs, applications...)
- * Each container gets its own isolated user space to allow multiple containers to run on a single host machine.
- * operating system level architecture is being shared across containers, which make it lightweight
+   * share the host system's kernel with other containers
+   * Just pack up the user space (bins, libs, applications...)
+   * Each container gets its own isolated user space to allow multiple containers to run on a single host machine.
+   * operating system level architecture is being shared across containers, which make it lightweight
 
 ### Overview
 * open-source project based on Linux containers.

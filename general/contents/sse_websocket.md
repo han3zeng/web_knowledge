@@ -75,3 +75,4 @@
 ## References
 [SSE VS. Websocket](https://stackoverflow.com/questions/5195452/websockets-vs-server-sent-events-eventsource)
 [SSE - html5Rocks - Eric Bidleman](https://www.html5rocks.com/en/tutorials/eventsource/basics/)
+* https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9

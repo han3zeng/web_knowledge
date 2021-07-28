@@ -12,4 +12,3 @@
 
 ## References
 * https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/
-* https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367

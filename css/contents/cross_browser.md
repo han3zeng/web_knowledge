@@ -1,5 +1,7 @@
 # Cross Browser
 
+## tools
+* normalize.css
 
 ## Typekit Font is bolder on Firefox
 

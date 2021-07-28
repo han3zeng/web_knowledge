@@ -3,6 +3,7 @@
  * for crawler
 2. metadata description
   * what to appear on search page of google engine.
+  * there is a limit on number of characters
 3. structured data
   * put the page to google-defined structure for google engine to know what is the page all about.
 4. sitemap

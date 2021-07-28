@@ -69,3 +69,4 @@
 * [Types of XSS](https://www.acunetix.com/websitesecurity/xss/)
 * [how to prevent XSS](https://www.acunetix.com/blog/articles/preventing-xss-attacks/)
 * [XSS Example](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)
+* [xss - mdn](https://developer.mozilla.org/en-US/docs/Glossary/Cross-site_scripting)
