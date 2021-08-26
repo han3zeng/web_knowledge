@@ -3,6 +3,7 @@
 * [Front-End-Road](https://github.com/kamranahmedse/developer-roadmap)
 * [khanacademy](https://www.khanacademy.org/)
 * [algoExpert](https://www.algoexpert.io/purchase)
+* [w3c](https://www.w3.org/)
 
 ## Javascript
 * [The Modern Javascript Tutorial](https://javascript.info/)
@@ -32,7 +33,7 @@
 * Philip Robert
 * Dan Abramov
 * [Gosha Arinich(https://goshakkk.name/)
-
+* [Huli - techBlog](https://tech-blog.cymetrics.io/posts/huli/)
 
 
 ## Web Development

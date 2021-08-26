@@ -56,7 +56,16 @@ write down a sh file to finalize all command lines.
 1. automated build/deployment when a major change is made to the code.
  * say, you change major number of version of npm package
 
-## What is DevOps
+
+
+## Note
+* CI
+    * integration + test
+      * test -> aggree to merge
+* CDelivery
+    * build
+* CDeployment
+    * deploy
 
 
 
@@ -73,3 +82,4 @@ write down a sh file to finalize all command lines.
 * https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
 * https://guides.github.com/introduction/flow/
 * https://cloud.google.com/kubernetes-engine/kubernetes-comic/
+* https://www.atlassian.com/continuous-delivery/continuous-integration

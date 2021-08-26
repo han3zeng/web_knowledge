@@ -20,6 +20,7 @@
 * [Lighthouse Viewer](https://googlechrome.github.io/lighthouse/viewer/)
  * Work with chrome developer inspector -> Audits -> Run Audits
  * https://web.dev/measure/?ref=hackernoon.com
+ * [all vital tools](https://web.dev/vitals-tools/) 
 
 ### Javascript
 * [Params Meta Syntax](http://usejsdoc.org/tags-param.html)

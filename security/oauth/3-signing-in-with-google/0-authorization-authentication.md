@@ -6,6 +6,6 @@
 
 
 ## Authentication
-* two ways
-    1. make an API endpoint whih will return user info when user reauest it with access token
+* two solutions
+    1. make an API endpoint which will return user info when user request it with access token
     2. OpenID Connect

@@ -20,3 +20,4 @@
 * docker run -dp 3000:3000 -v todo-db:/etc/todos getting-started
 * docker rm -f <docker id>
 * docker volume inspect <volume name>
+* docker image prune [ref](https://docs.docker.com/engine/reference/commandline/image_prune/)

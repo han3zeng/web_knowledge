@@ -4,7 +4,7 @@
 2. TLS negotiation (SSL) (SSL handshake)
 3. TCP slow start - 14 kb rule
 
-## in borwser pasrig
+## In Browser Parsing
 
 1. Building DOM Tree (parse)
     * request and download css do not block the html parsing

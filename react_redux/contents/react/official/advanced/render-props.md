@@ -3,6 +3,8 @@
 *  sharing code between React components using a prop whose value is a function.
 *  a render prop is a function prop that a component uses to know what to render.
 * you can implement most higher-order components (HOC) using a regular component with a render prop.
+* solve cross-cutting concern
+
 
 ## Reuse Code
 * mixin -> HOC -> Render Props
