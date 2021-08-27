@@ -22,7 +22,7 @@
         * preload javascript
             * split javascript to seveal chunks
                 * preload necessary chunks first
-            * improve tiem to interactive
+            * improve time to interactive
 
 * prefetch
     * the resouces that is need in future navigation
